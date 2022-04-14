@@ -1,0 +1,96 @@
+* {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  color: #3c4043;
+}
+
+#account {
+  width: 30px;
+  height: 30px;
+}
+
+a img {
+  width: 24px;
+  height: 24px;
+}
+
+.search-layout {
+  padding-top: 14%;
+}
+
+ul {
+  display: inline;
+  list-style-type: none;
+}
+
+li {
+  display: inline;
+  float: right;
+  margin-left: 14px;
+  color: black;
+}
+
+li a {
+  color: black;
+}
+
+#magnifier {
+  width: 20px;
+  height: 20px;
+}
+
+.center-align {
+  text-align: center;
+}
+
+.google-search {
+  margin-top: 26px;
+  height: 140px;
+}
+
+.search-bar span {
+  margin-left: 0;
+}
+
+
+#search-bar {
+  width: 487px;
+  height: 34px;
+  border: none;
+}
+
+.search-bar {
+  height: 44px;
+  width: 582px;
+  border-radius:20px ;
+  border: 1px solid #dfe1e5;
+  margin: auto;
+}
+
+.search-buttons {
+  /* width: 584px; */
+  height: 88px;
+  padding-top: 30px;
+}
+
+
+.button {
+  width: 140px;
+  height: 36px;
+  border-radius: 4px;
+  border: 1px solid #f8f9fa;
+  background-color: #f8f9fa;
+}
+
+
+
+.google-image {
+  height: 90px;
+}
+
+
+
+a {
+  text-decoration: none;
+}
